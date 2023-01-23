@@ -49,6 +49,7 @@ img {
     margin: 0px;
     background: #F1FAEE;
     font-family: 'Spinnaker', sans-serif;
+    padding: 10px;
 }
 
 .activites-title{
@@ -91,7 +92,7 @@ img {
 }
 
 .activites-desc{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .guide{
